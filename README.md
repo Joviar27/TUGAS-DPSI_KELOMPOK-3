@@ -1,16 +1,16 @@
 <h1>DPSI-D KELOMPOK 3</h1>
 <ul>
-<li> 1.Arief Setiawan</l1>
+<li> 1.Arief Setiawan</li>
 <br>
-<l1> 2.Audry Tifara Acanta Qiindil</l1>
+<li> 2.Audry Tifara Acanta Qiindil</li>
 <br>
-<l1> 3.Ivan Hilmi Derian</l1>
+<li> 3.Ivan Hilmi Derian</li>
 <br>
-<l1> 4.Joy Vianoktya Aristides</l1>
+<li> 4.Joy Vianoktya Aristides</li>
 <br>
-<l1> 5.Fani Putri Pratama</l1>
+<li> 5.Fani Putri Pratama</li>
 <br>
-<l1> 6.Berend Korwa</l1>
+<li> 6.Berend Korwa</li>
 <br>
 
 
