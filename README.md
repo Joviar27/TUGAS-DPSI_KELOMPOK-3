@@ -5,3 +5,5 @@
 <h6> 4. Joy Vianoktya Aristides</h6>
 <h6> 5. Fani Putri Pratama</h6>
 <h6> 6. Berend Korwa</h6>
+
+<h2>Program Ada di Dalam Folder semester_3/src/Gudang</h2>
